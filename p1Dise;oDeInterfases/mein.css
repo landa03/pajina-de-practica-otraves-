@@ -1,0 +1,35 @@
+body{
+    background-color: black;
+}
+.title{
+    background-color: white;
+}
+.td1{
+    background-color: red;
+}
+.td2{
+    background-color: green;
+}
+.td3{
+    background-color: blue;
+    color: white;
+}
+img{
+    max-width: 30%;
+    max-height: 30%;
+}
+.p1{
+    font-family: 'Courier New', Courier, monospace;
+}
+.p2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.p3{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.p4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.p5{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
